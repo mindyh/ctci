@@ -21,7 +21,12 @@
  * until you reach your final node, store the shortest path needed to reach each new node  
 * Min spanning tree (Prim)
  *  Add the next node you can that would minimize cost
+* Min spanning arborescence 
+ * MST for Directed graph 
+ * For each edge, delete all edges with cost >= to it (including itself). The edge belongs if there no longer exists a path from root to that node.
 * Union Find
+ * counting components  
+ * if (Find(u) != Find(u)) Union(Find(u), Find(v))
 * Min-cut/Max-flow
 * Clustering
 * Data compression
