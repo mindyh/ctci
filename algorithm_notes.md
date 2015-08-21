@@ -1,3 +1,7 @@
+# Recursion
+#### Strategy
+* BASE CASE FIRST!!!!!!!!!!!!!!!!!!!!!!
+
 # Trees
 #### Vocab
 * Binary Search Tree - left nodes are always less than right nodes
