@@ -1,3 +1,14 @@
+# Trees
+#### Vocab
+* Binary Search Tree - left nodes are always less than right nodes
+* Search tree - you choose whether left < right or right < left
+* balanced - left and right trees don't differ by more than tolerance. O(log n) search time when balanced, o(n) worst case when unbalanced.
+* Full and complete - every branch has 2 leaves, 2^n - 1 nodes.
+
+#### Algorithms
+* Traversal
+  * in-order travel - visit left side, then current node, then right side 
+
 # Graphs
 #### Vocab
 * Undirected
