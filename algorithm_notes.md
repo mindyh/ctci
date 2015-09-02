@@ -12,7 +12,9 @@
 #### Algorithms
 * Traversal
   * in-order travel - visit left side, then current node, then right side 
-
+* balancing
+  * O(n) with Day-Stout-Warren aglo
+ 
 # Graphs
 #### Vocab
 * Undirected
